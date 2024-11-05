@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GroupDate</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="start_group_date">Start\nGroup Date</string>
+    <string name="new_message_from_jane">You have a new message from Jane</string>
+</resources>
